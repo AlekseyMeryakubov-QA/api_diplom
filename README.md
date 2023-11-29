@@ -39,7 +39,7 @@
 
 ### Создание сотрудника
 
-### Обновление сотрудника:
+### Обновление сотрудника
 
 ### Удаление сотрудника
 
@@ -105,7 +105,7 @@ gradle clean test
 <p align="center">  
 <img title="Allure Tests" src="images/screen/AllureTO.png" width="850">  
 </p>
-![img.png](img.png)![img_1.png](img_1.png)
+
 ____
 
 <a id="уведомление-в-telegram-о-результатах-выполнения-автоматизированных-тестов"></a>
