@@ -97,13 +97,13 @@ gradle clean test
 ## 📊 Основная страница отчёта
 
 <p align="center">  
-<img title="Allure TestOps Dashboard" src="images/screen/OpsDashboard.png" width="850">  
+<img title="Allure TestOps Dashboard" src="images/screen/AllureTODash.png" width="850">  
 </p>  
 
 ## 📭 Автоматизированные тест-кейсы
 
 <p align="center">  
-<img title="Allure Tests" src="images/screen/OpsTestCases.png" width="850">  
+<img title="Allure Tests" src="images/screen/AllureTO.png" width="850">  
 </p>
 ![img.png](img.png)![img_1.png](img_1.png)
 ____
